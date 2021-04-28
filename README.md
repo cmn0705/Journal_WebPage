@@ -1,5 +1,7 @@
 *Tags: Html, Css, JavaScript, Servlet, Tomcat*
 
+[Website Layout](https://cmn0705.github.io/Journal_WebPage/tomcat/webapps/FinalProject/WEB-INF/Journal.html)
+
 **Functional Description**
 * Allows user to save a thought or idea to the server along with the time and date.
 * Allows user to retrieve all their entries and list them in order along with the date of entry.
@@ -22,5 +24,3 @@
 5.	Open Journal.html on a browser of your choice.
 6.	Enter at least one entry into text box and click the Save button or press Enter.
 7.	Click the Retrieve button to list all the entries saved on the database in chronological order. (This data is saved in ‘FinalProject’ file in the tomcat/bin folder)
-
-[Website Layout](https://cmn0705.github.io/Journal_WebPage/tomcat/webapps/FinalProject/WEB-INF/Journal.html)
