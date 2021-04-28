@@ -14,7 +14,7 @@
 * Database is created when user saves information.
 
 **How to Run**
-Note: Running Server on Mac
+* Note: Running Server on Mac
 1.	Application folder ‘FinalProject’ is placed in the folder tomcat/webapps
 2.	In Terminal, go to tomcat/bin folder, type ‘./startup.sh’ to start the server:
 3.	In browser, go to http://localhost:9091/ to make sure the server is running
