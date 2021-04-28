@@ -1,0 +1,22 @@
+<web-app>
+<servlet>
+   <servlet-name>SaveServlets</servlet-name>
+   <servlet-class>Save</servlet-class>
+</servlet>
+
+<servlet-mapping>
+   <servlet-name>SaveServlets</servlet-name>
+   <url-pattern>/Save</url-pattern>
+</servlet-mapping>
+
+<servlet>
+   <servlet-name>RetrieveServlets</servlet-name>
+   <servlet-class>Retrieve</servlet-class>
+</servlet>
+
+<servlet-mapping>
+   <servlet-name>RetrieveServlets</servlet-name>
+   <url-pattern>/Retrieve</url-pattern>
+</servlet-mapping>
+</web-app>
+

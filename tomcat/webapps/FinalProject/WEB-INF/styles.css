@@ -1,0 +1,14 @@
+body {
+  background: rgba(196, 225, 229, .4);
+}
+h1 {
+  color: rgba(245, 183, 57, .8);
+  font-size: 150px;
+  margin-top: 200px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+p {
+  color: red;
+}
+
