@@ -22,3 +22,5 @@
 5.	Open Journal.html on a browser of your choice.
 6.	Enter at least one entry into text box and click the Save button or press Enter.
 7.	Click the Retrieve button to list all the entries saved on the database in chronological order. (This data is saved in ‘FinalProject’ file in the tomcat/bin folder)
+
+[Website Layout](https://cmn0705.github.io/Journal_WebPage/tomcat/webapps/FinalProject/WEB-INF/Journal.html)
