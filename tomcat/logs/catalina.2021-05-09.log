@@ -1,0 +1,44 @@
+09-May-2021 23:46:59.415 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.45
+09-May-2021 23:46:59.421 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Mar 30 2021 10:29:04 UTC
+09-May-2021 23:46:59.421 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.45.0
+09-May-2021 23:46:59.422 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Mac OS X
+09-May-2021 23:46:59.422 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.14.6
+09-May-2021 23:46:59.422 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          x86_64
+09-May-2021 23:46:59.422 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /Library/Java/JavaVirtualMachines/adoptopenjdk-15.jdk/Contents/Home
+09-May-2021 23:46:59.422 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           15.0.2+7
+09-May-2021 23:46:59.422 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            AdoptOpenJDK
+09-May-2021 23:46:59.423 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /Users/chau/workplace/Journal_WebPage/tomcat
+09-May-2021 23:46:59.423 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /Users/chau/workplace/Journal_WebPage/tomcat
+09-May-2021 23:46:59.443 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+09-May-2021 23:46:59.444 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+09-May-2021 23:46:59.444 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+09-May-2021 23:46:59.444 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+09-May-2021 23:46:59.444 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+09-May-2021 23:46:59.444 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/Users/chau/workplace/Journal_WebPage/tomcat/conf/logging.properties
+09-May-2021 23:46:59.445 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+09-May-2021 23:46:59.445 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+09-May-2021 23:46:59.445 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+09-May-2021 23:46:59.445 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+09-May-2021 23:46:59.445 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+09-May-2021 23:46:59.445 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/Users/chau/workplace/Journal_WebPage/tomcat
+09-May-2021 23:46:59.446 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/Users/chau/workplace/Journal_WebPage/tomcat
+09-May-2021 23:46:59.446 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/Users/chau/workplace/Journal_WebPage/tomcat/temp
+09-May-2021 23:46:59.453 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/chau/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.]
+09-May-2021 23:46:59.878 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-9091"]
+09-May-2021 23:46:59.968 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [941] milliseconds
+09-May-2021 23:47:00.022 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+09-May-2021 23:47:00.023 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.45]
+09-May-2021 23:47:00.037 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/chau/workplace/Journal_WebPage/tomcat/webapps/FinalProject]
+09-May-2021 23:47:00.537 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/chau/workplace/Journal_WebPage/tomcat/webapps/FinalProject] has finished in [499] ms
+09-May-2021 23:47:00.537 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/chau/workplace/Journal_WebPage/tomcat/webapps/docs]
+09-May-2021 23:47:00.569 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/chau/workplace/Journal_WebPage/tomcat/webapps/docs] has finished in [31] ms
+09-May-2021 23:47:00.569 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/chau/workplace/Journal_WebPage/tomcat/webapps/manager]
+09-May-2021 23:47:00.637 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/chau/workplace/Journal_WebPage/tomcat/webapps/manager] has finished in [68] ms
+09-May-2021 23:47:00.637 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/chau/workplace/Journal_WebPage/tomcat/webapps/examples]
+09-May-2021 23:47:01.064 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/chau/workplace/Journal_WebPage/tomcat/webapps/examples] has finished in [427] ms
+09-May-2021 23:47:01.064 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/chau/workplace/Journal_WebPage/tomcat/webapps/ROOT]
+09-May-2021 23:47:01.090 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/chau/workplace/Journal_WebPage/tomcat/webapps/ROOT] has finished in [26] ms
+09-May-2021 23:47:01.090 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/Users/chau/workplace/Journal_WebPage/tomcat/webapps/host-manager]
+09-May-2021 23:47:01.123 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/Users/chau/workplace/Journal_WebPage/tomcat/webapps/host-manager] has finished in [32] ms
+09-May-2021 23:47:01.128 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-9091"]
+09-May-2021 23:47:01.147 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1178] milliseconds
