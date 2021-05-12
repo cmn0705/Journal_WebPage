@@ -8,6 +8,15 @@
 - Developed the webpage with a server so entries will not be lost if the user turn on/off the Webpage and can retrieve them later.
 - Tools used: *html, css, bootstrap 4, Java, Servlet, Tomcat*
 
+**Files:**
+- Journal.html
+- styles.css
+- main.css *(Bootstrap lite)*
+- main.js *(Bootstrap lite)*
+- web.xml
+- Save.java
+- Retrieve.java
+
 **How to Run**
 * Note: Running Server on Mac
 1.	Application folder ‘FinalProject’ is placed in the folder tomcat/webapps
