@@ -1,19 +1,12 @@
-*Tags: Html, Css, JavaScript, Servlet, Tomcat*
+*Tags: Frontend, Backend, Web Development*
 
 [Website Layout](https://cmn0705.github.io/Journal_WebPage/tomcat/webapps/FinalProject/WEB-INF/Journal.html)
 
-**Functional Description**
-* Allows user to save a thought or idea to the server along with the time and date.
-* Allows user to retrieve all their entries and list them in order along with the date of entry.
-* Allows user to login.
-* Provides thought provoking ideas on running slides.
-* Provides a different color for date in order to distinguish it from user entry. 
-
-**Technical Information**
-* Uses java servlet to host app.
-* Journal is saved on the server “FinalProject”
-* Languages used: HTML/Java/Javascript/Bootstrap Framework/CSS
-* Database is created when user saves information.
+**Description**
+- Developed a Journal Webpage that allows users to log in, type their ideas in to the text box, and save them into the server. Texts will be saved along with the date and time of the entries. Users can retrieve all their previous entries by clicking the retrieve button.
+- Designed the webpage  with bootstrap4 to make it responsible to screen sizes, having a popup login window, a running random slides that provoke thoughts.
+- Developed the webpage with a server so entries will not be lost if the user turn on/off the Webpage and can retrieve them later.
+- Tools used: *html, css, bootstrap 4, Java, Servlet, Tomcat*
 
 **How to Run**
 * Note: Running Server on Mac
