@@ -3,8 +3,7 @@ import javax.servlet.*;
 import javax.servlet.http.*;
 import java.io.*;
 import java.util.*;
-public class Save extends HttpServlet
-{
+public class Save extends HttpServlet{
 public void doGet (HttpServletRequest req, HttpServletResponse res) 
 throws ServletException, IOException
            {   doPost(req, res);  }
@@ -31,7 +30,7 @@ throws ServletException, IOException
         } // while
   msg.println("</BODY> </HTML>");
 // Append the form data to "FinalProject" file.
-   BufferedWriter outFile = new BufferedWriter(new FileWriter("FinalProject", true));
+   BufferedWriter outFile = new BufferedWriter(new FileWriter("../webapps/FinalProject/WEB-INF/Journal.txt", true));
    outFile.write(formData);
    outFile.close();
  } // doPost

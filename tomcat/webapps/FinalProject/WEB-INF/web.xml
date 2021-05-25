@@ -18,5 +18,15 @@
    <servlet-name>RetrieveServlets</servlet-name>
    <url-pattern>/Retrieve</url-pattern>
 </servlet-mapping>
+
+<servlet>
+   <servlet-name>LoginServlets</servlet-name>
+   <servlet-class>Login</servlet-class>
+</servlet>
+
+<servlet-mapping>
+   <servlet-name>LoginServlets</servlet-name>
+   <url-pattern>/Login</url-pattern>
+</servlet-mapping>
 </web-app>
 

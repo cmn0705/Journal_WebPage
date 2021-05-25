@@ -17,7 +17,7 @@ throws ServletException, IOException
   msg.println("<HTML> <HEAD> <TITLE>");
   msg.println("My Journal</TITLE> </HEAD> <BODY>");
   msg.println("<h1>My Journal History</h1>");
-   BufferedReader inFile = new BufferedReader(new FileReader("FinalProject"));
+   BufferedReader inFile = new BufferedReader(new FileReader("../webapps/FinalProject/WEB-INF/Journal.txt"));
    String line;
    while ((line = inFile.readLine()) != null){
       StringTokenizer st = new StringTokenizer(line, "@");
